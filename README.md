@@ -4,5 +4,3 @@
 
 drone with kubernetes demo
 
-原地址：https://github.com/cnych/drone-k8s-demo
-
